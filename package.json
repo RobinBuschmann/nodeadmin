@@ -13,8 +13,7 @@
   ],
   "main": "middleware/index.js",
   "scripts": {
-    "test": "node ./middleware/tests/test.js",
-    "postinstall": "npm install --prefix ./middleware/public/"
+    "test": "node ./middleware/tests/test.js"
   },
   "repository": {
     "type": "git",
